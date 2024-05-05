@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../02 - KF - RDI Module/Computer Vision/CV Worspace/semantic-vision"
+		},
+		{
+			"path": "../../../02 - KF - RDI Module/Reflective Robots & Connectivity/Hand Coordinates"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "semantic-vision"
+	}
+}
